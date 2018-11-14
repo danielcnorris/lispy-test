@@ -1,5 +1,5 @@
 # Cider and Lispy in Java 8 work but fail in Java 10.
-FROM openjdk:10 
+FROM openjdk:11
 # FROM openjdk:8  
 
 ENV LEIN_VERSION=2.8.1
